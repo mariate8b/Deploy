@@ -3,6 +3,7 @@ import React, { useState } from 'react';
 
 import QueryInput from './components/QueryInput';
 import DroneDataTable from './components/DroneDataTable';
+import QueryResponse from './components/QueryResponse';
 
 
 
